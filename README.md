@@ -1,0 +1,2 @@
+# wptheme
+WP Starter theme
